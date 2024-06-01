@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">Enthusiastic learner and tech enthusiast with a keen interest in exploring new software and programming languages.</h3>
+<h3 align="left">Enthusiastic learner and tech enthusiast with a keen interest in exploring new software and programming languages.</h3>
 
 - 🔭 I’m currently working on [Data Cleaner](https://github.com/Kazuto335/DataCleaner)
 
