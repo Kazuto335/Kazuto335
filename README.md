@@ -1,4 +1,3 @@
-<img src="https://www.infosectrain.com/wp-content/uploads/2023/04/DATA-SCIENCE-TOOLS-COVERED.jpg">
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="left">Enthusiastic learner and tech enthusiast with a keen interest in exploring new software and programming languages.</h3>
 
